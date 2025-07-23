@@ -1,4 +1,9 @@
-# Sumit Shrivastava
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM1NXFkYWx5NG0yMTNudGlqNG42eWcycW8wemJtMHk0OWU1ZjF0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+<h1 align="center">Hey there, I'm Sumit Shrivastava 👋</h1>
+<h3 align="center">A passionate Data Analyst, Python Developer, and AI/ML Enthusiast from India.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumitshrivastava18" target="_blank">
@@ -7,19 +12,19 @@
   <a href="https://x.com/SumitShriX" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://leetcode.com/u/sumit_shri/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/sumitshri_1203" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  <a href="mailto:sumitshri.1203@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/>
   </a>
 </p>
 
 ---
 
-### 👋 About Me
+### 📈 My GitHub Stats
 
-I am a detail-oriented and analytical final-year B.Tech student in Computer Science (AI & ML). My passion lies in transforming raw data into actionable insights and building efficient, data-driven solutions. I am actively seeking an entry-level position as a **Data Analyst**, **Python Developer**, or **AI/ML Enthusiast** where I can apply my skills to contribute to meaningful projects.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitshrivastava18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshrivastava18&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -61,15 +66,7 @@ I am a detail-oriented and analytical final-year B.Tech student in Computer Scie
 
 ---
 
-### 📜 Certifications
-
-- **Data Analytics Job Simulation** - *Deloitte & Forage*
-  - [View Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Kap6MizwcF6oRBJ7h_1752845545305_completion_certificate.pdf)
-
----
+### 🐍 My Contribution Graph
 
 <p align="center">
-  <a href="mailto:sumitshri.1203@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/>
-  </a>
-</p>
+  <img src="
