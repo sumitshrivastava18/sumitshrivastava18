@@ -12,6 +12,12 @@
   <a href="https://x.com/SumitShriX" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="https://leetcode.com/u/sumit_shri/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sumitshri_1203" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
 
 ---
@@ -29,29 +35,6 @@
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshrivastava18&layout=compact&langs_count=8&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Coding Badges
-
-<table>
-  <tr>
-    <td align="center"><strong>LeetCode</strong></td>
-    <td align="center"><strong>HackerRank</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/u/sumit_shri/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/profile/sumitshri_1203" target="_blank">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-      </a>
     </td>
   </tr>
 </table>
