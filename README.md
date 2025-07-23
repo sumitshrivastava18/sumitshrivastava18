@@ -12,19 +12,49 @@
   <a href="https://x.com/SumitShriX" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:sumitshri.1203@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/>
-  </a>
 </p>
 
 ---
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitshrivastava18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshrivastava18&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>GitHub Stats</strong></td>
+    <td align="center"><strong>Most Used Languages</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitshrivastava18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshrivastava18&layout=compact&langs_count=8&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Coding Badges
+
+<table>
+  <tr>
+    <td align="center"><strong>LeetCode</strong></td>
+    <td align="center"><strong>HackerRank</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/sumit_shri/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/sumitshri_1203" target="_blank">
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,7 +96,25 @@
 
 ---
 
+### 📜 Certifications
+
+- **Data Analytics Job Simulation** - *Deloitte & Forage*
+  - [View Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Kap6MizwcF6oRBJ7h_1752845545305_completion_certificate.pdf)
+
+---
+
 ### 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="
+  <img src="https://github.com/sumitshrivastava18/sumitshrivastava18/raw/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</p>
+
+---
+
+### 📫 Say Hello
+
+<p align="center">
+  <a href="mailto:sumitshri.1203@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/>
+  </a>
+</p>
